@@ -60,3 +60,12 @@ The function will return the correct conversion if the supplied problems are pro
     -   Numbers should be right-aligned.
     -   There should be four spaces between each problem.
     -   There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)
+
+
+## Development
+
+The function code is in `arithmetic_arranger.py`. To run the function, run `main.py`. The script requires the [pytest](https://pytest.org/) module to be installed to run the function tests.
+
+## Testing
+
+The unit tests for this project are in `test_module.py`. When pytest is installed, the tests will run automatically whenever `main.py` is run.
