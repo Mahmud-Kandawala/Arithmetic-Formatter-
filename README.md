@@ -1,3 +1,3 @@
-# Arithmetic-Formatter
+# Arithmetic Formatter
 
 
