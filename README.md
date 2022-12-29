@@ -1,6 +1,6 @@
 # Arithmetic Formatter
 
-<img src = "images/Formatter.png"> 
+<img src = "images/Form.png"> 
 
 ## Assignment
 
